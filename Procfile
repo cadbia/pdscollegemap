@@ -1,1 +1,1 @@
-web: gunicorn pdscollegemap:app
+web: gunicorn app:app
